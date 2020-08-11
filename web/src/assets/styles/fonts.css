@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Poppins;
+  src: url('../../fonts/Poppins-Regular.ttf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: Archivo;
+  src: url('../../fonts/Archivo-Regular.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Archivo;
+  src: url('../../fonts/Archivo-Bold.ttf');
+  font-weight: bold;
+}
